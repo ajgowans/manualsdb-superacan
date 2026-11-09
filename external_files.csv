@@ -1,1 +1,3 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/SuperAcan/African Adventures.pdf,https://archive.org/download/mister-manuals/1995_Funtech%20Super%20A%27Can.zip/1995_Funtech%20Super%20A%27Can%2FAfrican%20Adventures.pdf,9555199,1ae9ded378350367ae7046999bd19d13,,,African Adventures.pdf
+docs/SuperAcan/Journey to the Laugh.pdf,https://archive.org/download/mister-manuals/1995_Funtech%20Super%20A%27Can.zip/1995_Funtech%20Super%20A%27Can%2FJourney%20to%20the%20Laugh.pdf,7351116,8eea67585505aedfe5acb8dab5bd050f,,,Journey to the Laugh.pdf
